@@ -4,3 +4,4 @@ __pycache__/
 .idea/
 *.csv
 *.png
+test_results/
